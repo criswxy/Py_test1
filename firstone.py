@@ -8,7 +8,4 @@ for i in range(9,-1,-2):
     print(i)
 
 # 测试一下git
-<<<<<<< HEAD
-=======
 # 添加了新分支feature1 which is simple
->>>>>>> feature1
